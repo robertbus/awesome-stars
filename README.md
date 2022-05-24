@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -440,7 +441,7 @@
 - [jessfraz/shaking-finger-action](https://github.com/jessfraz/shaking-finger-action) - A GitHub action that displays a gif of Conan O'Brien shaking his finger to a pull request on fail.
 - [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) - Tyler Cipriani's dotfiles
 - [paulfantom/ansible-restic](https://github.com/paulfantom/ansible-restic) - Deploy restic backup program
-- [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage, Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron
+- [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [JesusMtnez/dotfiles](https://github.com/JesusMtnez/dotfiles) - My personal dotfiles
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
