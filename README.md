@@ -146,6 +146,7 @@
 
 ## HTML 
 
+- [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [hnarayanan/springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map
@@ -162,6 +163,7 @@
 
 ## Java 
 
+- [tarilabs/sample-dmn-external-java-function20200730](https://github.com/tarilabs/sample-dmn-external-java-function20200730) - 
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
