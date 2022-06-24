@@ -171,6 +171,7 @@
 
 ## Java 
 
+- [Binance-docs/Binance_Futures_Java](https://github.com/Binance-docs/Binance_Futures_Java) - Java library for Binance futures
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tarilabs/sample-dmn-external-java-function20200730](https://github.com/tarilabs/sample-dmn-external-java-function20200730) - 
@@ -248,6 +249,8 @@
 
 ## Others 
 
+- [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
+- [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [Drakemor/RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
@@ -422,6 +425,7 @@
 
 ## Shell 
 
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [jpetazzo/minimage](https://github.com/jpetazzo/minimage) - Minimal Docker images: a collection of Dockerfiles illustrating how to reduce container image size.
 - [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
@@ -500,6 +504,7 @@
 
 ## TypeScript 
 
+- [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
