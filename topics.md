@@ -726,6 +726,11 @@
 
 ## others 
 
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
+- [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
+- [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
+- [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
+- [Binance-docs/Binance_Futures_Java](https://github.com/Binance-docs/Binance_Futures_Java) - Java library for Binance futures
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
