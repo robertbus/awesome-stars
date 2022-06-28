@@ -349,6 +349,7 @@
 
 ## devops 
 
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -726,6 +727,7 @@
 
 ## others 
 
+- [wiringbits/scala-js-games](https://github.com/wiringbits/scala-js-games) - Simple games ported to Scala.js (Scala 3)
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
@@ -978,6 +980,7 @@
 
 ## python3 
 
+- [wanth1997/python-ftx](https://github.com/wanth1997/python-ftx) - Best FTX python api developed by Crypto Quant Trader
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
@@ -1025,6 +1028,7 @@
 
 ## security 
 
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
