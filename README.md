@@ -249,6 +249,7 @@
 
 ## Others 
 
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -346,6 +347,7 @@
 
 ## Python 
 
+- [wanth1997/python-ftx](https://github.com/wanth1997/python-ftx) - Best FTX python api developed by Crypto Quant Trader
 - [lmfit/lmfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize, and with many additional classes and methods for curve fitting.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
@@ -417,6 +419,7 @@
 
 ## Scala 
 
+- [wiringbits/scala-js-games](https://github.com/wiringbits/scala-js-games) - Simple games ported to Scala.js (Scala 3)
 - [scala-szeged/Scala-Course-Hungarian](https://github.com/scala-szeged/Scala-Course-Hungarian) - A Szegedi Egyetemen általam tartott Scala gyakorlat anyaga
 - [47degrees/scalaio-microservices](https://github.com/47degrees/scalaio-microservices) - Dummy app for ScalaIO Talk: The Three Paths of Scaling with Akka
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
