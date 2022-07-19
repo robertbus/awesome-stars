@@ -173,7 +173,6 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
-- [markmandel/dotfiles](https://github.com/markmandel/dotfiles) - My dotfiles and local machine provisioning
 
 ## Java 
 
@@ -494,6 +493,7 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+- [markmandel/dotfiles](https://github.com/markmandel/dotfiles) - My dotfiles and local machine provisioning
 - [kalos/ansible-desktop](https://github.com/kalos/ansible-desktop) - simple and quick way to deploy every desktop/laptop configuration
 - [briangershon/linux-desktop-ansible](https://github.com/briangershon/linux-desktop-ansible) - Ansible-based Linux Mint Desktop Setup
 - [vfarcic/jenkins-docker-ansible](https://github.com/vfarcic/jenkins-docker-ansible) - 
