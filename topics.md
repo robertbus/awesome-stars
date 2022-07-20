@@ -21,6 +21,7 @@
 - [c](#c)
 - [chrome](#chrome)
 - [cli](#cli)
+- [code-quality](#code-quality)
 - [coding](#coding)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -164,6 +165,7 @@
 
 ## awesome 
 
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -183,6 +185,8 @@
 
 ## awesome-list 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -284,6 +288,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
 
+## code-quality 
+
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -303,6 +311,7 @@
 
 ## cpp 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
@@ -406,6 +415,7 @@
 
 ## documentation 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [ministryofjustice/laa-architectural-diagrams](https://github.com/ministryofjustice/laa-architectural-diagrams) - Architecture diagrams for Legal Aid Agency (within the Ministry of Justice)
 - [skyzyx/alpine-pandoc](https://github.com/skyzyx/alpine-pandoc) - Docker container with Alpine Linux, Pandoc, PlantUML, and Sphinx.
@@ -473,6 +483,7 @@
 
 ## go 
 
+- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
@@ -492,6 +503,7 @@
 
 ## golang 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -596,6 +608,9 @@
 
 ## javascript 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -642,6 +657,7 @@
 
 ## learning 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
@@ -728,6 +744,8 @@
 
 ## nodejs 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -747,6 +765,8 @@
 
 ## others 
 
+- [leonardo-ono/JavaGoldenAxe](https://github.com/leonardo-ono/JavaGoldenAxe) - Golden Axe (1989) game implemented in java using only standard libraries (Java 2D, Swing, AWT & Java Sound API), so no external libraries required. Video: https://youtu.be/uevIVLNhQqs
+- [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [wiringbits/scala-js-games](https://github.com/wiringbits/scala-js-games) - Simple games ported to Scala.js (Scala 3)
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
@@ -966,6 +986,7 @@
 
 ## programming 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -974,6 +995,7 @@
 
 ## python 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [lmfit/lmfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize, and with many additional classes and methods for curve fitting.
@@ -1138,6 +1160,7 @@
 
 ## typescript 
 
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 
 ## ubuntu 
