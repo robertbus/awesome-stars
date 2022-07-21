@@ -89,6 +89,7 @@
 
 ## Clojure 
 
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
 - [clojure-cookbook/clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) - This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com
 - [dlebrero/wireshark-plantuml](https://github.com/dlebrero/wireshark-plantuml) - Generates a PlantUML sequence diagram given a Wireshark JSON capture.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -177,6 +178,7 @@
 
 ## Java 
 
+- [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [leonardo-ono/JavaGoldenAxe](https://github.com/leonardo-ono/JavaGoldenAxe) - Golden Axe (1989) game implemented in java using only standard libraries (Java 2D, Swing, AWT & Java Sound API), so no external libraries required. Video: https://youtu.be/uevIVLNhQqs
 - [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [Binance-docs/Binance_Futures_Java](https://github.com/Binance-docs/Binance_Futures_Java) - Java library for Binance futures
@@ -360,6 +362,7 @@
 
 ## Python 
 
+- [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [wanth1997/python-ftx](https://github.com/wanth1997/python-ftx) - Best FTX python api developed by Crypto Quant Trader
