@@ -592,6 +592,7 @@
 
 ## java 
 
+- [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
@@ -765,6 +766,8 @@
 
 ## others 
 
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [leonardo-ono/JavaGoldenAxe](https://github.com/leonardo-ono/JavaGoldenAxe) - Golden Axe (1989) game implemented in java using only standard libraries (Java 2D, Swing, AWT & Java Sound API), so no external libraries required. Video: https://youtu.be/uevIVLNhQqs
 - [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
