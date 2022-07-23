@@ -178,8 +178,10 @@
 
 ## Java 
 
+- [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
+- [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and recordsplatform "hiccups" - including the JVM stalls that often happen whenJava applications are executed and/or any OS or hardware platfo
+- [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
-- [leonardo-ono/JavaGoldenAxe](https://github.com/leonardo-ono/JavaGoldenAxe) - Golden Axe (1989) game implemented in java using only standard libraries (Java 2D, Swing, AWT & Java Sound API), so no external libraries required. Video: https://youtu.be/uevIVLNhQqs
 - [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [Binance-docs/Binance_Futures_Java](https://github.com/Binance-docs/Binance_Futures_Java) - Java library for Binance futures
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
@@ -362,6 +364,7 @@
 
 ## Python 
 
+- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
