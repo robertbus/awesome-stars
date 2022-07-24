@@ -256,6 +256,7 @@
 ## Lua 
 
 - [tiborbaksa/vlc-mediaklikk-video](https://github.com/tiborbaksa/vlc-mediaklikk-video) - VLC playlist parser for MédiaKlikk videos and video streams
+- [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 
 ## Makefile 
 
@@ -461,7 +462,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [nheron/droolsonboarding](https://github.com/nheron/droolsonboarding) - Drools Onboarding book
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [cytopia/thunar-custom-actions](https://github.com/cytopia/thunar-custom-actions) - Custom actions for Thunar (or Nautilus) File manager
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -511,7 +512,6 @@
 - [briangershon/linux-desktop-ansible](https://github.com/briangershon/linux-desktop-ansible) - Ansible-based Linux Mint Desktop Setup
 - [vfarcic/jenkins-docker-ansible](https://github.com/vfarcic/jenkins-docker-ansible) - 
 - [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
-- [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 - [laur89/dotfiles](https://github.com/laur89/dotfiles) - LA's loonix dotfiles (et al)
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [apolloclark/jenkins](https://github.com/apolloclark/jenkins) - Demo of the Jenkins Pipeline plugin, using Vagrant
