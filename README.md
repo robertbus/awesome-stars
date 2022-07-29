@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -178,6 +179,8 @@
 
 ## Java 
 
+- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
+- [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
 - [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and recordsplatform "hiccups" - including the JVM stalls that often happen whenJava applications are executed and/or any OS or hardware platfo
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
@@ -347,6 +350,7 @@
 
 ## PHP 
 
+- [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz) - Docker compose graph visualization
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [juliendsv/po-to-json](https://github.com/juliendsv/po-to-json) - Simple script to transform a .po file into a .json
 
@@ -365,6 +369,8 @@
 
 ## Python 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
@@ -386,7 +392,6 @@
 - [nlohmann/swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 - [badicsalex/hun_law](https://github.com/badicsalex/hun_law) - Tools for parsing hungarian legal documents
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
@@ -531,6 +536,7 @@
 
 ## TypeScript 
 
+- [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
