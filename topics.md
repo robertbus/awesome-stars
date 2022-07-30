@@ -777,6 +777,10 @@
 
 ## others 
 
+- [bschwarz/puml-themes](https://github.com/bschwarz/puml-themes) - This repository is used to hold themes for plantuml (www.plantuml.com) diagraming tool. Users can use these themes to give there diagrams different looks.
+- [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
+- [mattjhayes/PlantUML-Examples](https://github.com/mattjhayes/PlantUML-Examples) - Examples of PlantUML code to generate 'Diagrams as Code'
+- [The-Lum/puml-themes-gallery](https://github.com/The-Lum/puml-themes-gallery) - Gallery of all the PlantUML theme (*.puml)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
