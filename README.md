@@ -23,7 +23,6 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -269,10 +268,6 @@
 
 - [ministryofjustice/laa-architectural-diagrams](https://github.com/ministryofjustice/laa-architectural-diagrams) - Architecture diagrams for Legal Aid Agency (within the Ministry of Justice)
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Others 
 
 - [mattjhayes/PlantUML-Examples](https://github.com/mattjhayes/PlantUML-Examples) - Examples of PlantUML code to generate 'Diagrams as Code'
@@ -438,6 +433,7 @@
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [eliasgranderubio/dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containe
 - [bonovoxly/playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, complete with roles and inventory examples.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 
 ## QML 
