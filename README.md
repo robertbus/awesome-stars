@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
@@ -377,6 +378,7 @@
 
 ## Python 
 
+- [lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot) - Cryptocurrency trading bot using python and binance.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
