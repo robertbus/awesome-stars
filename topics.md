@@ -793,7 +793,7 @@
 - [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and recordsplatform "hiccups" - including the JVM stalls that often happen whenJava applications are executed and/or any OS or hardware platfo
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
