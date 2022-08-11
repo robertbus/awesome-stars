@@ -91,7 +91,7 @@
 
 ## Clojure 
 
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [clojure-cookbook/clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) - This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com
 - [dlebrero/wireshark-plantuml](https://github.com/dlebrero/wireshark-plantuml) - Generates a PlantUML sequence diagram given a Wireshark JSON capture.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
