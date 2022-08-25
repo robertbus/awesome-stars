@@ -38,7 +38,7 @@
 - [Starlark](#starlark)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -563,7 +563,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 
-## Vim script 
+## Vim Script 
 
 - [mrtazz/dotfiles](https://github.com/mrtazz/dotfiles) - collection of my dotfiles
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
