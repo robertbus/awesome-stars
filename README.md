@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
@@ -83,6 +84,7 @@
 ## CSS 
 
 - [bschwarz/puml-themes](https://github.com/bschwarz/puml-themes) - This repository is used to hold themes for plantuml (www.plantuml.com) diagraming tool. Users can use these themes to give there diagrams different looks.
+- [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
@@ -183,9 +185,9 @@
 
 ## Java 
 
+- [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
-- [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and recordsplatform "hiccups" - including the JVM stalls that often happen whenJava applications are executed and/or any OS or hardware platfo
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -380,6 +382,7 @@
 
 ## Python 
 
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot) - Cryptocurrency trading bot using python and binance.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
