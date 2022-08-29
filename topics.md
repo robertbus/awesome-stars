@@ -415,6 +415,7 @@
 - [skyzyx/alpine-pandoc](https://github.com/skyzyx/alpine-pandoc) - Docker container with Alpine Linux, Pandoc, PlantUML, and Sphinx.
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker) - Running the latest version of imagemagick inside container
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -936,7 +937,6 @@
 - [laurent22/pmcam](https://github.com/laurent22/pmcam) - Poor man's video capture with motion detection in Bash
 - [kpocza/LoWe](https://github.com/kpocza/LoWe) - Linux on Windows extender
 - [sparameswaran/threadlogic](https://github.com/sparameswaran/threadlogic) - 
-- [dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker) - Running the latest version of imagemagick inside container
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [BramVer/boostnote-md-extractor](https://github.com/BramVer/boostnote-md-extractor) - Script to transfer and extract the content from the Boostnote files in cson to md.
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
