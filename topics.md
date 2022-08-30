@@ -879,7 +879,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow.
-- [badicsalex/hun_law](https://github.com/badicsalex/hun_law) - Tools for parsing hungarian legal documents
+- [badicsalex/hun_law_py](https://github.com/badicsalex/hun_law_py) - Tools for parsing hungarian legal documents
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
 - [andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them.
