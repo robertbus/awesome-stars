@@ -22,6 +22,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code-quality](#code-quality)
 - [coding](#coding)
 - [config](#config)
@@ -298,6 +299,10 @@
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
+
+## clojure 
+
+- [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
 
 ## code-quality 
 
