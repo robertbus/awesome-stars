@@ -282,6 +282,7 @@
 
 ## cli 
 
+- [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -507,6 +508,7 @@
 
 ## github 
 
+- [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## go 
@@ -748,6 +750,7 @@
 
 ## markdown 
 
+- [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [structurizr/cli](https://github.com/structurizr/cli) - A command line utility for Structurizr.
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
