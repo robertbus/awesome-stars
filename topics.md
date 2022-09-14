@@ -439,7 +439,7 @@
 
 ## documentation 
 
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [ministryofjustice/laa-architectural-diagrams](https://github.com/ministryofjustice/laa-architectural-diagrams) - Architecture diagrams for Legal Aid Agency (within the Ministry of Justice)
 - [skyzyx/alpine-pandoc](https://github.com/skyzyx/alpine-pandoc) - Docker container with Alpine Linux, Pandoc, PlantUML, and Sphinx.
@@ -699,7 +699,7 @@
 
 ## learning 
 
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
@@ -1056,6 +1056,7 @@
 
 ## python 
 
+- [TheRandomLabs/Scoop-Python](https://github.com/TheRandomLabs/Scoop-Python) - A Scoop bucket for Python applications that do not provide standalone executables.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
