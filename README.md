@@ -375,6 +375,7 @@
 
 ## PowerShell 
 
+- [TheRandomLabs/Scoop-Python](https://github.com/TheRandomLabs/Scoop-Python) - A Scoop bucket for Python applications that do not provide standalone executables.
 - [pihalve/c4model-visio-stencil](https://github.com/pihalve/c4model-visio-stencil) - Visio stencil with C4 Model shapes
 - [lukesampson/concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
 
@@ -390,7 +391,7 @@
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [wanth1997/python-ftx](https://github.com/wanth1997/python-ftx) - Best FTX python api developed by Crypto Quant Trader
 - [lmfit/lmfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize, and with many additional classes and methods for curve fitting.
