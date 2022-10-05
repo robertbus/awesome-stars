@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
@@ -362,6 +363,7 @@
 
 ## PHP 
 
+- [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz) - Docker compose graph visualization
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [juliendsv/po-to-json](https://github.com/juliendsv/po-to-json) - Simple script to transform a .po file into a .json
@@ -555,6 +557,7 @@
 
 ## TypeScript 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
