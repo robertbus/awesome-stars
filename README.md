@@ -321,7 +321,6 @@
 - [rabidgremlin/c4model-svg](https://github.com/rabidgremlin/c4model-svg) - Shapes and icons for the C4 Model in .svg format.
 - [kaminzo/c4-draw.io](https://github.com/kaminzo/c4-draw.io) - Draw.io template/diagram containing C4 Model shapes. Drawio Diagrams.net
 - [matthewjosephtaylor/plantuml-style](https://github.com/matthewjosephtaylor/plantuml-style) - Plantuml not-ugly style
-- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -374,6 +373,7 @@
 ## PlantUML 
 
 - [The-Lum/puml-themes-gallery](https://github.com/The-Lum/puml-themes-gallery) - Gallery of all the PlantUML theme (*.puml)
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 
 ## PowerShell 
 
