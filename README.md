@@ -39,6 +39,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## C 
 
@@ -583,6 +584,10 @@
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [JBKahn/provisioning-local](https://github.com/JBKahn/provisioning-local) - A repo to hold the setup process for a new machine so that I don't have to remember all this stuff.
+
+## Vue 
+
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
 ## License
