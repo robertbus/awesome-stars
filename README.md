@@ -85,6 +85,7 @@
 
 ## CSS 
 
+- [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
 - [bschwarz/puml-themes](https://github.com/bschwarz/puml-themes) - This repository is used to hold themes for plantuml (www.plantuml.com) diagraming tool. Users can use these themes to give there diagrams different looks.
 - [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -171,6 +172,7 @@
 
 ## HTML 
 
+- [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -389,6 +391,7 @@
 
 ## Python 
 
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot) - Cryptocurrency trading bot using python and binance.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -471,6 +474,7 @@
 
 ## Scala 
 
+- [gvolpe/trading](https://github.com/gvolpe/trading) - 💱 Trading application written in Scala 3 that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)
 - [wiringbits/scala-js-games](https://github.com/wiringbits/scala-js-games) - Simple games ported to Scala.js (Scala 3)
 - [scala-szeged/Scala-Course-Hungarian](https://github.com/scala-szeged/Scala-Course-Hungarian) - A Szegedi Egyetemen általam tartott Scala gyakorlat anyaga
 - [47degrees/scalaio-microservices](https://github.com/47degrees/scalaio-microservices) - Dummy app for ScalaIO Talk: The Three Paths of Scaling with Akka
@@ -559,6 +563,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
