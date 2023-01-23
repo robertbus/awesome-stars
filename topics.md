@@ -921,7 +921,7 @@
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
-- [Mogztter/asciidoctor-web-pdf](https://github.com/Mogztter/asciidoctor-web-pdf) - Convert AsciiDoc documents to PDF using web technologies
+- [ggrossetie/asciidoctor-web-pdf](https://github.com/ggrossetie/asciidoctor-web-pdf) - Convert AsciiDoc documents to PDF using web technologies
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
 - [tometchy/Mssql-docker-initialization-demo](https://github.com/tometchy/Mssql-docker-initialization-demo) - Demonstration of Microsoft SQL Server on Linux in a Docker container with creating example database after initialization.
 - [mrtazz/dotfiles](https://github.com/mrtazz/dotfiles) - collection of my dotfiles
