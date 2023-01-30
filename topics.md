@@ -951,7 +951,7 @@
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [thjanssen/HibernateTips](https://github.com/thjanssen/HibernateTips) - 
 - [szabbenjamin/digionline](https://github.com/szabbenjamin/digionline) - 
-- [joelparkerhenderson/demo-plantuml](https://github.com/joelparkerhenderson/demo-plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
+- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [vfarcic/devops26](https://github.com/vfarcic/devops26) - 
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
