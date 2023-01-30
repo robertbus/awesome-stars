@@ -323,7 +323,7 @@
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [97-things/97-things-every-agile-developer-should-know](https://github.com/97-things/97-things-every-agile-developer-should-know) - 97 Things Every Agile Software Developer Should Know
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
-- [joelparkerhenderson/demo-plantuml](https://github.com/joelparkerhenderson/demo-plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
+- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [1and1/c4-notation](https://github.com/1and1/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
 - [robbell/plantuml-c4](https://github.com/robbell/plantuml-c4) - A simple and flexible PlantUML template for creating C4 diagrams
 - [rabidgremlin/c4model-svg](https://github.com/rabidgremlin/c4model-svg) - Shapes and icons for the C4 Model in .svg format.
