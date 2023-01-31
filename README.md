@@ -196,6 +196,7 @@
 
 ## Java 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
