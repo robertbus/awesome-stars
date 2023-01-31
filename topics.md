@@ -63,6 +63,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [gradle](#gradle)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -416,6 +417,7 @@
 
 ## docker 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz) - Docker compose graph visualization
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
@@ -578,6 +580,10 @@
 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 
+## gradle 
+
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+
 ## graphql 
 
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -662,6 +668,7 @@
 
 ## java 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -718,6 +725,7 @@
 
 ## kubernetes 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -803,6 +811,7 @@
 
 ## maven 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
 
 ## monitoring 
