@@ -388,7 +388,7 @@
 
 ## database 
 
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database that can handle both time-series and analytics workloads.
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a time-series database that aims to handle both time-series and analytic workloads efficiently.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [pavankjadda/LiquibaseDemo](https://github.com/pavankjadda/LiquibaseDemo) - Safely Evolute Database with Liquibase and Spring Boot
 
@@ -1189,7 +1189,7 @@
 ## rust 
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database that can handle both time-series and analytics workloads.
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a time-series database that aims to handle both time-series and analytic workloads efficiently.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## scala 
