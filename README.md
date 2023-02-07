@@ -197,6 +197,8 @@
 
 ## Java 
 
+- [kiegroup/kogito-examples](https://github.com/kiegroup/kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
+- [kiegroup/kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
