@@ -598,7 +598,6 @@
 ## hacktoberfest 
 
 - [kiegroup/kogito-examples](https://github.com/kiegroup/kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
-- [kiegroup/kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
@@ -873,6 +872,7 @@
 
 ## others 
 
+- [kiegroup/kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
