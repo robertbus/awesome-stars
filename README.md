@@ -476,7 +476,7 @@
 ## Rust 
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a time-series database that aims to handle both time-series and analytic workloads efficiently.
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a cloud-native time-series database that aims to handle both time-series and analytic workloads efficiently.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
