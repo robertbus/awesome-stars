@@ -132,6 +132,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -920,7 +921,7 @@
 - [joelparkerhenderson/objectives-and-key-results](https://github.com/joelparkerhenderson/objectives-and-key-results) - Objectives and Key Results (OKR) examples for goals, tasks, plans, projects, and strategy.
 - [joelparkerhenderson/ways-of-working](https://github.com/joelparkerhenderson/ways-of-working) - Ways of Working (WoW) with team principles, values, ground rules, aspirations, norms, working agreements, shared expectations, and group understandings
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [Protektor-Desura/compare-media-servers](https://github.com/Protektor-Desura/compare-media-servers) - A comparison chart of media servers
@@ -1329,6 +1330,10 @@
 ## vue 
 
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+
+## vuejs 
+
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## web 
 
