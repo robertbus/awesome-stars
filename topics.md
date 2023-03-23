@@ -957,7 +957,7 @@
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
 - [andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them.
 - [omniprof/Software-Development-Project-Java-III](https://github.com/omniprof/Software-Development-Project-Java-III) - Here you find the course material for the 3rd year desktop project course I give in Computer Science Technology at Dawson College.
-- [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications"
+- [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition
 - [juliendsv/po-to-json](https://github.com/juliendsv/po-to-json) - Simple script to transform a .po file into a .json
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
