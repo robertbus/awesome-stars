@@ -182,7 +182,6 @@
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [hnarayanan/springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
@@ -316,6 +315,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [Protektor-Desura/compare-media-servers](https://github.com/Protektor-Desura/compare-media-servers) - A comparison chart of media servers
+- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [coollog/build-containers-the-hard-way](https://github.com/coollog/build-containers-the-hard-way) - GitBook on the low-level details of building Docker containers.
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
