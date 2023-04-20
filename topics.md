@@ -182,7 +182,7 @@
 
 - [rcmoutinho/ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) - Free and Open Source code to automate your ebook! Get your .pdf, .epub, and .mobi in seconds running a single command! Clone this project and start your eBook today!
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 
 ## awesome 
@@ -290,7 +290,7 @@
 ## chrome 
 
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## chrome-extension 
 
@@ -1319,7 +1319,7 @@
 
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## typescript 
 
@@ -1352,7 +1352,7 @@
 ## web 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
 ## webapp 
 
