@@ -99,6 +99,7 @@
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -961,7 +962,7 @@
 - [nlohmann/swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
-- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow.
+- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
 - [badicsalex/hun_law_py](https://github.com/badicsalex/hun_law_py) - Tools for parsing hungarian legal documents
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
@@ -1099,6 +1100,10 @@
 - [luhtonen/learning-akka-video](https://github.com/luhtonen/learning-akka-video) - Learning Akka video course from Safari Books
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [apolloclark/jenkins](https://github.com/apolloclark/jenkins) - Demo of the Jenkins Pipeline plugin, using Vagrant
+
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## perl 
 
