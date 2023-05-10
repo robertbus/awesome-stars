@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
 - [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
@@ -602,6 +603,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
