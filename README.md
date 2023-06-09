@@ -210,7 +210,6 @@
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
-- [Binance-docs/Binance_Futures_Java](https://github.com/Binance-docs/Binance_Futures_Java) - Java library for Binance futures
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tarilabs/sample-dmn-external-java-function20200730](https://github.com/tarilabs/sample-dmn-external-java-function20200730) - 
