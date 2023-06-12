@@ -322,7 +322,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [Protektor-Desura/compare-media-servers](https://github.com/Protektor-Desura/compare-media-servers) - A comparison chart of media servers
-- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [coollog/build-containers-the-hard-way](https://github.com/coollog/build-containers-the-hard-way) - GitBook on the low-level details of building Docker containers.
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
@@ -427,6 +426,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
