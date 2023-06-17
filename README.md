@@ -261,6 +261,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [michael-simons/bootiful-databases](https://github.com/michael-simons/bootiful-databases) - 
 - [ggrossetie/asciidoctor-web-pdf](https://github.com/ggrossetie/asciidoctor-web-pdf) - Convert AsciiDoc documents to PDF using web technologies
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
@@ -515,7 +516,6 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [nheron/droolsonboarding](https://github.com/nheron/droolsonboarding) - Drools Onboarding book
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [cytopia/thunar-custom-actions](https://github.com/cytopia/thunar-custom-actions) - Custom actions for Thunar (or Nautilus) File manager
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
