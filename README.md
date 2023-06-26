@@ -38,6 +38,7 @@
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -550,7 +551,6 @@
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [JesusMtnez/dotfiles](https://github.com/JesusMtnez/dotfiles) - My personal dotfiles
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 - [dennyzhang/challenges-kubernetes](https://github.com/dennyzhang/challenges-kubernetes) - :cloud: Challenges Your Kubernetes Skills And Knowledge
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -583,6 +583,10 @@
 - [PanderMusubi/plantuml-workshop](https://github.com/PanderMusubi/plantuml-workshop) - Superfast modeling with PlantUML
 - [jschauma/cs615asa](https://github.com/jschauma/cs615asa) - Stevens Institute of Technology - CS615 Aspects of System Administration. A graduate level class teaching SA using AWS Cloud Services.
 - [jschauma/book](https://github.com/jschauma/book) - Principles of System Administration
+
+## Text 
+
+- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 
 ## TypeScript 
 
