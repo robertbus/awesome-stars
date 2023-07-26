@@ -331,7 +331,7 @@
 
 ## clojure 
 
-- [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
+- [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client + message queue for Clojure
 
 ## code-quality 
 
