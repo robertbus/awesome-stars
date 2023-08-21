@@ -463,7 +463,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [otapi/Calibre_Moly_hu](https://github.com/otapi/Calibre_Moly_hu) - This Calibre plugin has been created to download metadata and cover image from Moly.hu.
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [mrkipling/maraschino](https://github.com/mrkipling/maraschino) - A front-end for HTPCs
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
