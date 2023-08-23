@@ -294,7 +294,6 @@
 
 ## Makefile 
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ministryofjustice/laa-architectural-diagrams](https://github.com/ministryofjustice/laa-architectural-diagrams) - Architecture diagrams for Legal Aid Agency (within the Ministry of Justice)
 
 ## Others 
@@ -329,6 +328,7 @@
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [coollog/build-containers-the-hard-way](https://github.com/coollog/build-containers-the-hard-way) - GitBook on the low-level details of building Docker containers.
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them.
 - [omniprof/Software-Development-Project-Java-III](https://github.com/omniprof/Software-Development-Project-Java-III) - Here you find the course material for the 3rd year desktop project course I give in Computer Science Technology at Dawson College.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
