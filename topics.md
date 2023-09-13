@@ -272,7 +272,7 @@
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
+- [bAndie91/tools](https://github.com/bAndie91/tools) - all-in collection of productivity scripts, CLI tools, utility libraries, fuse filesystems, and also some stuff
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 
 ## bitcoin 
@@ -328,7 +328,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
+- [bAndie91/tools](https://github.com/bAndie91/tools) - all-in collection of productivity scripts, CLI tools, utility libraries, fuse filesystems, and also some stuff
 
 ## clojure 
 
@@ -823,7 +823,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
+- [bAndie91/tools](https://github.com/bAndie91/tools) - all-in collection of productivity scripts, CLI tools, utility libraries, fuse filesystems, and also some stuff
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 
 ## machine-learning 
