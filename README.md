@@ -566,7 +566,7 @@
 - [kalos/ansible-desktop](https://github.com/kalos/ansible-desktop) - simple and quick way to deploy every desktop/laptop configuration
 - [briangershon/linux-desktop-ansible](https://github.com/briangershon/linux-desktop-ansible) - Ansible-based Linux Mint Desktop Setup
 - [vfarcic/jenkins-docker-ansible](https://github.com/vfarcic/jenkins-docker-ansible) - 
-- [bAndie91/tools](https://github.com/bAndie91/tools) - various linux scripts
+- [bAndie91/tools](https://github.com/bAndie91/tools) - all-in collection of productivity scripts, CLI tools, utility libraries, fuse filesystems, and also some stuff
 - [laur89/dotfiles](https://github.com/laur89/dotfiles) - LA's loonix dotfiles (et al)
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [apolloclark/jenkins](https://github.com/apolloclark/jenkins) - Demo of the Jenkins Pipeline plugin, using Vagrant
