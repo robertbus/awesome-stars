@@ -253,7 +253,7 @@
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
 - [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
