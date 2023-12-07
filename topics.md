@@ -949,7 +949,7 @@
 - [structurizr/ui](https://github.com/structurizr/ui) - 
 - [structurizr/lite](https://github.com/structurizr/lite) - Structurizr Lite
 - [PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques) - Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques, published by Packt
-- [kiegroup/kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
+- [apache/incubator-kie-tools](https://github.com/apache/incubator-kie-tools) - Tools for KIE
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
