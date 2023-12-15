@@ -316,7 +316,7 @@
 
 ## chrome-extension 
 
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 
 ## cli 
 
@@ -879,7 +879,7 @@
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [TobseF/boostnote-markdown-cheatsheet](https://github.com/TobseF/boostnote-markdown-cheatsheet) - 📋 📘 The missing one page markdown feature cheat sheet for Boostnote
 
 ## maven 
