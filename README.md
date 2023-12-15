@@ -76,7 +76,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [kpocza/LoWe](https://github.com/kpocza/LoWe) - Linux on Windows extender
 - [scantailor/scantailor](https://github.com/scantailor/scantailor) - 
 - [turulomio/nimuh](https://github.com/turulomio/nimuh) - Logic game "Nimuh en busca del tesoro andaluz"
