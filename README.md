@@ -599,7 +599,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [somahargitai/Your_IT_Interview](https://github.com/somahargitai/Your_IT_Interview) - A preparation kit for future IT professionals
 - [szabbenjamin/digionline](https://github.com/szabbenjamin/digionline) - 
 - [tmorin/plantuml-libs](https://github.com/tmorin/plantuml-libs) - A set of PlantUML libraries and a NPM cli tool to design diagrams which focus on several technologies/approaches: Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP), C4 Model or even EventS
