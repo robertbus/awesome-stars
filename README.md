@@ -266,7 +266,7 @@
 - [michael-simons/bootiful-databases](https://github.com/michael-simons/bootiful-databases) - 
 - [ggrossetie/asciidoctor-web-pdf](https://github.com/ggrossetie/asciidoctor-web-pdf) - Convert AsciiDoc documents to PDF using web technologies
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [rcmoutinho/ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) - Free and Open Source code to automate your ebook! Get your .pdf, .epub, and .mobi in seconds running a single command! Clone this project and start your eBook today!
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
