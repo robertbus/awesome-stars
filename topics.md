@@ -947,7 +947,7 @@
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
-- [structurizr/ui](https://github.com/structurizr/ui) - 
+- [structurizr/ui](https://github.com/structurizr/ui) - UI code for Structurizr Lite, on-premises, and cloud service.
 - [structurizr/lite](https://github.com/structurizr/lite) - Structurizr Lite
 - [PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques) - Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques, published by Packt
 - [apache/incubator-kie-tools](https://github.com/apache/incubator-kie-tools) - Tools for KIE
