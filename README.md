@@ -22,6 +22,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -284,6 +285,10 @@
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [chanezon/docker-tips](https://github.com/chanezon/docker-tips) - 
 - [jake-phy/WindowIconList](https://github.com/jake-phy/WindowIconList) - 
+
+## Kotlin 
+
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 
 ## Lua 
 
