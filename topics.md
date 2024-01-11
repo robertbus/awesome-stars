@@ -411,6 +411,7 @@
 
 ## data-science 
 
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [asad70/reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
 
 ## data-structures 
@@ -421,6 +422,7 @@
 
 ## data-visualization 
 
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [asad70/reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
 
 ## database 
@@ -793,6 +795,7 @@
 
 ## kotlin 
 
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [requery/requery](https://github.com/requery/requery) - requery - modern SQL based query & persistence for Java / Kotlin / Android
 
 ## kubernetes 
@@ -1206,6 +1209,7 @@
 
 ## python 
 
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [TheRandomLabs/Scoop-Python](https://github.com/TheRandomLabs/Scoop-Python) - A Scoop bucket for Python applications that do not provide standalone executables.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
