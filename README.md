@@ -448,6 +448,7 @@
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [pradeesi/Store_MQTT_Data_in_Database](https://github.com/pradeesi/Store_MQTT_Data_in_Database) - 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [RafaelKuebler/PlantUMLDesignPatterns](https://github.com/RafaelKuebler/PlantUMLDesignPatterns) - 
@@ -534,7 +535,6 @@
 - [skleanthous/C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [qywx/PlantUML-colors](https://github.com/qywx/PlantUML-colors) - This script is to show all named color suggested by PlantUML
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
