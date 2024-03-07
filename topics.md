@@ -756,6 +756,7 @@
 - [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
+- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
@@ -983,7 +984,6 @@
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
 - [mattjhayes/PlantUML-Examples](https://github.com/mattjhayes/PlantUML-Examples) - Examples of PlantUML code to generate 'Diagrams as Code'
 - [The-Lum/puml-themes-gallery](https://github.com/The-Lum/puml-themes-gallery) - Gallery of all the PlantUML theme (*.puml)
-- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
