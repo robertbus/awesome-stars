@@ -107,7 +107,7 @@
 
 ## CoffeeScript 
 
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 
 ## Cython 
