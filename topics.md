@@ -730,6 +730,7 @@
 
 - [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -982,7 +983,6 @@
 - [PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques) - Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques, published by Packt
 - [apache/incubator-kie-tools](https://github.com/apache/incubator-kie-tools) - Tools for KIE
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
