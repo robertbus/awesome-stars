@@ -187,6 +187,7 @@
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [hnarayanan/springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map
+- [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [carsonoid/kube-decon](https://github.com/carsonoid/kube-decon) - Kubecon 2017 - Kubernetes Deconstructed
 - [Hackership/debugging-challenges](https://github.com/Hackership/debugging-challenges) - Challenges created for the debugging workshop!
@@ -273,7 +274,6 @@
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [apiaryio/curl-trace-parser](https://github.com/apiaryio/curl-trace-parser) - Parser for output from Curl --trace option
 - [isaaceindhoven/plantuml-styler](https://github.com/isaaceindhoven/plantuml-styler) - Online tool to make your PlantUML diagrams look great.
-- [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
