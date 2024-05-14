@@ -47,6 +47,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -515,6 +516,15 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## dotfiles 
+
+- [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [JesusMtnez/dotfiles](https://github.com/JesusMtnez/dotfiles) - Moved to: https://codeberg.org/JesusMtnez/dotfiles
+- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
+- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 
 ## dotnet 
 
@@ -1012,7 +1022,6 @@
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [tarilabs/sample-dmn-external-java-function20200730](https://github.com/tarilabs/sample-dmn-external-java-function20200730) - 
-- [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [Drakemor/RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
@@ -1147,7 +1156,6 @@
 - [opencharles/charles](https://github.com/opencharles/charles) - Java web crawling library
 - [jschauma/cs615asa](https://github.com/jschauma/cs615asa) - Stevens Institute of Technology - CS615 Aspects of System Administration. A graduate level class teaching SA using AWS Cloud Services.
 - [jschauma/book](https://github.com/jschauma/book) - Principles of System Administration
-- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 - [opensourceway/asciidoc-blog](https://github.com/opensourceway/asciidoc-blog) - Support files for article on creating a blog using Asciidoc and Hugo
 - [mrkipling/maraschino](https://github.com/mrkipling/maraschino) - A front-end for HTPCs
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
