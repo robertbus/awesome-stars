@@ -92,7 +92,7 @@
 - [bschwarz/puml-themes](https://github.com/bschwarz/puml-themes) - This repository is used to hold themes for plantuml (www.plantuml.com) diagraming tool. Users can use these themes to give there diagrams different looks.
 - [ennerf/HdrHistogramVisualizer](https://github.com/ennerf/HdrHistogramVisualizer) - Visualizer for HdrHistogram and JHiccup logs
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [opensourceway/asciidoc-blog](https://github.com/opensourceway/asciidoc-blog) - Support files for article on creating a blog using Asciidoc and Hugo
