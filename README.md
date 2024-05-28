@@ -460,7 +460,7 @@
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
 - [BramVer/boostnote-md-extractor](https://github.com/BramVer/boostnote-md-extractor) - Script to transfer and extract the content from the Boostnote files in cson to md.
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
-- [Manjaro-WebDad/jak](https://github.com/Manjaro-WebDad/jak) - Hybrid web/desktop applications on Linux
+- [codesardine/jak](https://github.com/codesardine/jak) - Hybrid web/desktop applications on Linux
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [0xf2/aws-system-administration](https://github.com/0xf2/aws-system-administration) - Resources for readers of the O'REILLY book by the same title.
