@@ -748,7 +748,7 @@
 
 ## html5 
 
-- [Manjaro-WebDad/jak](https://github.com/Manjaro-WebDad/jak) - Hybrid web/desktop applications on Linux
+- [codesardine/jak](https://github.com/codesardine/jak) - Hybrid web/desktop applications on Linux
 
 ## http 
 
@@ -806,7 +806,7 @@
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [Manjaro-WebDad/jak](https://github.com/Manjaro-WebDad/jak) - Hybrid web/desktop applications on Linux
+- [codesardine/jak](https://github.com/codesardine/jak) - Hybrid web/desktop applications on Linux
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
 ## jekyll 
@@ -874,7 +874,7 @@
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [hakerdefo/pmrp](https://github.com/hakerdefo/pmrp) - pmrp (Poor Man's Radio Player) - Probably best Internet radio player script.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [Manjaro-WebDad/jak](https://github.com/Manjaro-WebDad/jak) - Hybrid web/desktop applications on Linux
+- [codesardine/jak](https://github.com/codesardine/jak) - Hybrid web/desktop applications on Linux
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -1268,7 +1268,7 @@
 - [skyzyx/alpine-pandoc](https://github.com/skyzyx/alpine-pandoc) - Docker container with Alpine Linux, Pandoc, PlantUML, and Sphinx.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
-- [Manjaro-WebDad/jak](https://github.com/Manjaro-WebDad/jak) - Hybrid web/desktop applications on Linux
+- [codesardine/jak](https://github.com/codesardine/jak) - Hybrid web/desktop applications on Linux
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
