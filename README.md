@@ -14,6 +14,7 @@
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -128,6 +129,10 @@
 ## Emacs Lisp 
 
 - [cjbassi/config](https://github.com/cjbassi/config) - 
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Gnuplot 
 
@@ -430,7 +435,6 @@
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
