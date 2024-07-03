@@ -109,7 +109,6 @@
 
 ## CoffeeScript 
 
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 
 ## Cython 
@@ -257,6 +256,7 @@
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [structurizr/ui](https://github.com/structurizr/ui) - UI code for Structurizr Lite, on-premises, and cloud service.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [VADOSWARE/fts-benchmark](https://github.com/VADOSWARE/fts-benchmark) - FTS benchmark comparing Postgres, Typesense, Meilisearch, OpenSearch and SQLite
 - [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - A CLI tool to embed interactive PUML diagrams to your github markdown files.
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
@@ -346,7 +346,7 @@
 - [97-things/97-things-every-agile-developer-should-know](https://github.com/97-things/97-things-every-agile-developer-should-know) - 97 Things Every Agile Software Developer Should Know
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
-- [1and1/c4-notation](https://github.com/1and1/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
+- [mam-dev/c4-notation](https://github.com/mam-dev/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
 - [robbell/plantuml-c4](https://github.com/robbell/plantuml-c4) - A simple and flexible PlantUML template for creating C4 diagrams
 - [rabidgremlin/c4model-svg](https://github.com/rabidgremlin/c4model-svg) - Shapes and icons for the C4 Model in .svg format.
 - [kaminzo/c4-draw.io](https://github.com/kaminzo/c4-draw.io) - Draw.io template/diagram containing C4 Model shapes. Drawio Diagrams.net
