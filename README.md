@@ -14,7 +14,6 @@
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
-- [Fluent](#fluent)
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -130,10 +129,6 @@
 
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Gnuplot 
 
 - [Gnuplotting/gnuplot-basics](https://github.com/Gnuplotting/gnuplot-basics) - gnuplot code for the entries under "gnuplot basics"
@@ -190,6 +185,7 @@
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [hnarayanan/springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
