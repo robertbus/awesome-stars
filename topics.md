@@ -22,6 +22,7 @@
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -320,6 +321,10 @@
 ## bot 
 
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
+
+## bugbounty 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## c 
 
