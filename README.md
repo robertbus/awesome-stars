@@ -348,7 +348,6 @@
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [97-things/97-things-every-agile-developer-should-know](https://github.com/97-things/97-things-every-agile-developer-should-know) - 97 Things Every Agile Software Developer Should Know
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
-- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [mam-dev/c4-notation](https://github.com/mam-dev/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
 - [robbell/plantuml-c4](https://github.com/robbell/plantuml-c4) - A simple and flexible PlantUML template for creating C4 diagrams
 - [rabidgremlin/c4model-svg](https://github.com/rabidgremlin/c4model-svg) - Shapes and icons for the C4 Model in .svg format.
@@ -536,6 +535,7 @@
 - [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition
+- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [vfarcic/devops26](https://github.com/vfarcic/devops26) - 
 - [skleanthous/C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
