@@ -94,6 +94,7 @@
 - [kubernetes](#kubernetes)
 - [latex](#latex)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -793,6 +794,7 @@
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [nidi3/graphviz-java](https://github.com/nidi3/graphviz-java) - Use graphviz with pure java
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
+- [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - Simple Java connector to Binance Spot API
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
@@ -874,6 +876,10 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
+
+## library 
+
+- [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - Simple Java connector to Binance Spot API
 
 ## linux 
 
@@ -1026,7 +1032,6 @@
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
-- [binance/binance-connector-java](https://github.com/binance/binance-connector-java) - 
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
