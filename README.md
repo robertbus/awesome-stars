@@ -227,7 +227,7 @@
 - [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [structurizr/cli](https://github.com/structurizr/cli) - A command line utility for Structurizr.
-- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [team172011/TAcharting](https://github.com/team172011/TAcharting) - A charing application to download, plott and analyse securities, indicators, strategies and trading records
