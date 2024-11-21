@@ -191,6 +191,7 @@
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [dmarrazzo/dmn-calls-java](https://github.com/dmarrazzo/dmn-calls-java) - Calling Java from DMN
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [hnarayanan/springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
@@ -343,7 +344,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them.
 - [omniprof/Software-Development-Project-Java-III](https://github.com/omniprof/Software-Development-Project-Java-III) - Here you find the course material for the 3rd year desktop project course I give in Computer Science Technology at Dawson College.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [97-things/97-things-every-agile-developer-should-know](https://github.com/97-things/97-things-every-agile-developer-should-know) - 97 Things Every Agile Software Developer Should Know
