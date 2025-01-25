@@ -333,14 +333,14 @@
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+- [aeron-io/aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 
 ## c-plus-plus 
 
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-- [real-logic/simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
+- [aeron-io/aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+- [aeron-io/simple-binary-encoding](https://github.com/aeron-io/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
 
 ## chrome 
 
@@ -679,7 +679,7 @@
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [real-logic/simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
+- [aeron-io/simple-binary-encoding](https://github.com/aeron-io/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
@@ -802,8 +802,8 @@
 - [pavankjadda/LiquibaseDemo](https://github.com/pavankjadda/LiquibaseDemo) - Safely Evolute Database with Liquibase and Spring Boot
 - [requery/requery](https://github.com/requery/requery) - requery - modern SQL based query & persistence for Java / Kotlin / Android
 - [skyzyx/alpine-pandoc](https://github.com/skyzyx/alpine-pandoc) - Docker container with Alpine Linux, Pandoc, PlantUML, and Sphinx.
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-- [real-logic/simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
+- [aeron-io/aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+- [aeron-io/simple-binary-encoding](https://github.com/aeron-io/simple-binary-encoding) - Simple Binary Encoding (SBE) - High Performance Message Codec
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [DiUS/java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
