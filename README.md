@@ -210,7 +210,6 @@
 
 - [red6/dmn-check](https://github.com/red6/dmn-check) - A tool which performs static analyses on Decision Model Notation (DMN) files to detect bugs
 - [structurizr/lite](https://github.com/structurizr/lite) - Structurizr Lite
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
 - [apache/incubator-kie-tools](https://github.com/apache/incubator-kie-tools) - Tools for KIE
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
@@ -423,6 +422,7 @@
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot) - Cryptocurrency trading bot using python and binance.
