@@ -544,6 +544,7 @@
 ## dotfiles 
 
 - [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
+- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [JesusMtnez/dotfiles](https://github.com/JesusMtnez/dotfiles) - Moved to: https://codeberg.org/JesusMtnez/dotfiles
@@ -1086,7 +1087,6 @@
 - [nlohmann/swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
-- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
 - [badicsalex/hun_law_py](https://github.com/badicsalex/hun_law_py) - Tools for parsing hungarian legal documents
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [jkphl/clear-architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions
