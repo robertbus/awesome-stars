@@ -543,7 +543,7 @@
 
 ## dotfiles 
 
-- [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
+- [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - 🍙 Personal dotfiles repository.
 - [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1005,7 +1005,7 @@
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [isaaceindhoven/plantuml-styler](https://github.com/isaaceindhoven/plantuml-styler) - Online tool to make your PlantUML diagrams look great.
