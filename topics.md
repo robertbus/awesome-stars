@@ -544,7 +544,7 @@
 ## dotfiles 
 
 - [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - 🍙 Personal dotfiles repository.
-- [vrilles/dotfiles](https://github.com/vrilles/dotfiles) - *nix config files, managed with GNU Stow
+- [slowconv/dotfiles](https://github.com/slowconv/dotfiles) - *nix config files, managed with GNU Stow
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [JesusMtnez/dotfiles](https://github.com/JesusMtnez/dotfiles) - Moved to: https://codeberg.org/JesusMtnez/dotfiles
