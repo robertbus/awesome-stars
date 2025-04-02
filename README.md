@@ -23,6 +23,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -292,6 +293,10 @@
 - [chanezon/docker-tips](https://github.com/chanezon/docker-tips) - 
 - [jake-phy/WindowIconList](https://github.com/jake-phy/WindowIconList) - 
 
+## Jupyter Notebook 
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+
 ## Kotlin 
 
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
@@ -418,7 +423,6 @@
 ## Python 
 
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
 - [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
