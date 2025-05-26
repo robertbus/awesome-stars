@@ -1089,7 +1089,7 @@
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
 - [tometchy/Mssql-docker-initialization-demo](https://github.com/tometchy/Mssql-docker-initialization-demo) - Demonstration of Microsoft SQL Server on Linux in a Docker container with creating example database after initialization.
 - [mrtazz/dotfiles](https://github.com/mrtazz/dotfiles) - collection of my dotfiles
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [coollog/build-containers-the-hard-way](https://github.com/coollog/build-containers-the-hard-way) - GitBook on the low-level details of building Docker containers.
 - [inthepocket/plantuml-styles](https://github.com/inthepocket/plantuml-styles) - Stylesheet used by In The Pocket to style diagrams created with PlantUML
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
