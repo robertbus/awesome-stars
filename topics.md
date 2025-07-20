@@ -29,6 +29,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code-quality](#code-quality)
 - [coding](#coding)
 - [computer-science](#computer-science)
@@ -384,6 +385,10 @@
 ## clojure 
 
 - [taoensso/carmine](https://github.com/taoensso/carmine) - Redis client + message queue for Clojure
+
+## cms 
+
+- [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 
 ## code-quality 
 
