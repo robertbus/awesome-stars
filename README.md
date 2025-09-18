@@ -537,7 +537,7 @@
 - [skleanthous/C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [qywx/PlantUML-colors](https://github.com/qywx/PlantUML-colors) - This script is to show all named color suggested by PlantUML
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -613,7 +613,7 @@
 - [somahargitai/Your_IT_Interview](https://github.com/somahargitai/Your_IT_Interview) - A preparation kit for future IT professionals
 - [szabbenjamin/digionline](https://github.com/szabbenjamin/digionline) - 
 - [tmorin/plantuml-libs](https://github.com/tmorin/plantuml-libs) - A set of PlantUML libraries and a NPM cli tool to design diagrams which focus on several technologies/approaches: Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP), C4 Model or even EventS
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
