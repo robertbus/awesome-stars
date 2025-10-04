@@ -168,6 +168,7 @@
 - [ui-design](#ui-design)
 - [vagrant](#vagrant)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1173,7 +1174,6 @@
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [pihalve/c4model-visio-stencil](https://github.com/pihalve/c4model-visio-stencil) - Visio stencil with C4 Model shapes
-- [mam-dev/c4-notation](https://github.com/mam-dev/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
 - [rabidgremlin/c4model-svg](https://github.com/rabidgremlin/c4model-svg) - Shapes and icons for the C4 Model in .svg format.
 - [kaminzo/c4-draw.io](https://github.com/kaminzo/c4-draw.io) - Draw.io template/diagram containing C4 Model shapes. Drawio Diagrams.net
 - [koderizer/arc](https://github.com/koderizer/arc) - Software system architecture authoring and inspecting made easy
@@ -1606,6 +1606,14 @@
 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## visualization 
+
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
+- [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+- [mam-dev/c4-notation](https://github.com/mam-dev/c4-notation) - Technical resources for using the C4 model for visualizing software architecture.
 
 ## vpn 
 
