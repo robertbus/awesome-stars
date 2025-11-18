@@ -1164,7 +1164,6 @@
 - [juliendsv/po-to-json](https://github.com/juliendsv/po-to-json) - Simple script to transform a .po file into a .json
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [somahargitai/Your_IT_Interview](https://github.com/somahargitai/Your_IT_Interview) - A preparation kit for future IT professionals
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [97-things/97-things-every-software-architect-should-know](https://github.com/97-things/97-things-every-software-architect-should-know) - Book with 97 things and something more
 - [97-things/97-things-every-agile-developer-should-know](https://github.com/97-things/97-things-every-agile-developer-should-know) - 97 Things Every Agile Software Developer Should Know
