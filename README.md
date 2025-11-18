@@ -610,7 +610,6 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [somahargitai/Your_IT_Interview](https://github.com/somahargitai/Your_IT_Interview) - A preparation kit for future IT professionals
 - [szabbenjamin/digionline](https://github.com/szabbenjamin/digionline) - 
 - [tmorin/plantuml-libs](https://github.com/tmorin/plantuml-libs) - A set of PlantUML libraries and a NPM cli tool to design diagrams which focus on several technologies/approaches: Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP), C4 Model or even EventS
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
