@@ -110,6 +110,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -1033,6 +1034,10 @@
 - [red6/dmn-check](https://github.com/red6/dmn-check) - A tool which performs static analyses on Decision Model Notation (DMN) files to detect bugs
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
+
+## mcp 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 
 ## microservices 
 
