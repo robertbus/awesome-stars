@@ -424,7 +424,7 @@
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot) - Cryptocurrency trading bot using python and binance.
