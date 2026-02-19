@@ -784,7 +784,7 @@
 ## hacktoberfest 
 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
@@ -869,7 +869,7 @@
 
 - [red6/dmn-check](https://github.com/red6/dmn-check) - A tool which performs static analyses on Decision Model Notation (DMN) files to detect bugs
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -940,6 +940,7 @@
 
 ## kubernetes 
 
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -1534,7 +1535,7 @@
 
 ## spring-boot 
 
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business applications.
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow
 - [michael-simons/bootiful-databases](https://github.com/michael-simons/bootiful-databases) - 
 - [pavankjadda/LiquibaseDemo](https://github.com/pavankjadda/LiquibaseDemo) - Safely Evolute Database with Liquibase and Spring Boot
 
