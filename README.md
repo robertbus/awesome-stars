@@ -314,6 +314,7 @@
 
 ## Others 
 
+- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
 - [SpiralDevelopment/Awesome-Crypto-Trading](https://github.com/SpiralDevelopment/Awesome-Crypto-Trading) - An awesome curated list of resources, software and tools for crypto traders.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -521,7 +522,6 @@
 
 ## Shell 
 
-- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [jpetazzo/minimage](https://github.com/jpetazzo/minimage) - Minimal Docker images: a collection of Dockerfiles illustrating how to reduce container image size.
 - [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - Personal dotfiles repository.
