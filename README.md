@@ -23,7 +23,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -188,6 +187,7 @@
 ## HTML 
 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
@@ -290,10 +290,6 @@
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [chanezon/docker-tips](https://github.com/chanezon/docker-tips) - 
 - [jake-phy/WindowIconList](https://github.com/jake-phy/WindowIconList) - 
-
-## Jupyter Notebook 
-
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
 ## Kotlin 
 
@@ -462,7 +458,7 @@
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [RafaelKuebler/PlantUMLDesignPatterns](https://github.com/RafaelKuebler/PlantUMLDesignPatterns) - 
 - [awslabs/aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) - PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
