@@ -54,6 +54,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -554,6 +555,11 @@
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
+
+## distributed-systems 
+
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+- [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 
 ## docker 
 
@@ -1143,7 +1149,6 @@
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
-- [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java — :warning: maintenance mode
