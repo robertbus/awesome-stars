@@ -25,7 +25,6 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
@@ -300,10 +299,6 @@
 - [tiborbaksa/vlc-mediaklikk-video](https://github.com/tiborbaksa/vlc-mediaklikk-video) - VLC playlist parser for MédiaKlikk videos and video streams
 - [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 
-## Makefile 
-
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -382,6 +377,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [thoradia/thoradia](https://github.com/thoradia/thoradia) - Thoradia Add-ons Repository
 - [vfarcic/docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Docker Flow Proxy
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [josephwecker/bashrc_dispatch](https://github.com/josephwecker/bashrc_dispatch) - Launch different bash configurations for Linux vs OSX, interactive vs batch
 - [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes) - Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language :D
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -458,7 +454,7 @@
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [RafaelKuebler/PlantUMLDesignPatterns](https://github.com/RafaelKuebler/PlantUMLDesignPatterns) - 
 - [awslabs/aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) - PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
