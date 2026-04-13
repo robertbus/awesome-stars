@@ -188,6 +188,7 @@
 
 ## ai 
 
+- [costap/vger](https://github.com/costap/vger) - Command-line AI agent that ingests online conference videos
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -730,6 +731,7 @@
 
 ## go 
 
+- [costap/vger](https://github.com/costap/vger) - Command-line AI agent that ingests online conference videos
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
@@ -1132,7 +1134,6 @@
 
 ## others 
 
-- [costap/vger](https://github.com/costap/vger) - 
 - [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
