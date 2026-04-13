@@ -139,7 +139,7 @@
 
 ## Go 
 
-- [costap/vger](https://github.com/costap/vger) - 
+- [costap/vger](https://github.com/costap/vger) - Command-line AI agent that ingests online conference videos
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
