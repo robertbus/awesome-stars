@@ -124,6 +124,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
@@ -1114,6 +1115,10 @@
 ## nosql 
 
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
+## obsidian 
+
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## open-source 
 
