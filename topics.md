@@ -1194,7 +1194,6 @@
 - [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
 - [nheron/droolsonboarding](https://github.com/nheron/droolsonboarding) - Drools Onboarding book
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
-- [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
