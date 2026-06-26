@@ -141,7 +141,7 @@
 
 - [costap/vger](https://github.com/costap/vger) - Command-line AI agent that ingests online conference videos
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [yfuruyama/real-world-plantuml](https://github.com/yfuruyama/real-world-plantuml) - Source code of https://real-world-plantuml.com/
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
