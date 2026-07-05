@@ -314,7 +314,6 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [mattjhayes/PlantUML-Examples](https://github.com/mattjhayes/PlantUML-Examples) - Examples of PlantUML code to generate 'Diagrams as Code'
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/infraverse](https://github.com/bregman-arie/infraverse) - Infrastructure Platforms and Applications Comparison
 - [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) - A curated collection of publicly available resources on how companies around the world practice DevOps
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
@@ -427,6 +426,7 @@
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [joaomaranhao/video-maker](https://github.com/joaomaranhao/video-maker) - 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [wanth1997/python-ftx](https://github.com/wanth1997/python-ftx) - Best FTX python api developed by Crypto Quant Trader
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
