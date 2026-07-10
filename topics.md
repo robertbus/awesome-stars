@@ -187,6 +187,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
 
@@ -1730,6 +1731,11 @@
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## workflow 
+
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, and jBPM
 
 ## youtube 
 
