@@ -300,7 +300,6 @@
 ## Lua 
 
 - [tiborbaksa/vlc-mediaklikk-video](https://github.com/tiborbaksa/vlc-mediaklikk-video) - VLC playlist parser for MédiaKlikk videos and video streams
-- [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 
 ## Markdown 
 
@@ -616,6 +615,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 
 ## Vim Script 
 
