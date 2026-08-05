@@ -215,7 +215,7 @@
 
 - [red6/dmn-check](https://github.com/red6/dmn-check) - A tool which performs static analyses on Decision Model Notation (DMN) files to detect bugs
 - [structurizr/lite](https://github.com/structurizr/lite) - Structurizr Lite
-- [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, and jBPM
+- [apache/incubator-kie-examples](https://github.com/apache/incubator-kie-examples) - Apache KIE Examples repository with showcases on how to use Kogito, Drools, and jBPM
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -413,6 +413,7 @@
 
 ## Python 
 
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
@@ -591,7 +592,6 @@
 
 ## TypeScript 
 
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [apache/incubator-kie-tools](https://github.com/apache/incubator-kie-tools) - Tools for KIE
