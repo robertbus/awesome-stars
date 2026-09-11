@@ -18,7 +18,6 @@
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -180,10 +179,6 @@
 ## Groovy 
 
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-
-## HCL 
-
-- [vmulas/iac-cloud](https://github.com/vmulas/iac-cloud) - IaC :: Terraform + Ansible + Docker-Swarm + Microservices on AWS
 
 ## HTML 
 
