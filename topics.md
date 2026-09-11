@@ -1326,7 +1326,6 @@
 - [debops/debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [tiborbaksa/vlc-mediaklikk-video](https://github.com/tiborbaksa/vlc-mediaklikk-video) - VLC playlist parser for MédiaKlikk videos and video streams
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
-- [vmulas/iac-cloud](https://github.com/vmulas/iac-cloud) - IaC :: Terraform + Ansible + Docker-Swarm + Microservices on AWS
 - [alxlg/nativefier-freedesktop](https://github.com/alxlg/nativefier-freedesktop) - Script to automate the installation of Nativefier (Electron) web apps on Linux (following Freedesktop spec)
 - [ByScripts/fish-config](https://github.com/ByScripts/fish-config) - Fish Shell configuration files
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
