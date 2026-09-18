@@ -510,6 +510,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [jpetazzo/minimage](https://github.com/jpetazzo/minimage) - Minimal Docker images: a collection of Dockerfiles illustrating how to reduce container image size.
 - [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - Personal dotfiles repository.
