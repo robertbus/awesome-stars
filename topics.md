@@ -1146,6 +1146,7 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [coleam00/skills](https://github.com/coleam00/skills) - The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.
 - [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
 - [SpiralDevelopment/candlestick-patterns](https://github.com/SpiralDevelopment/candlestick-patterns) - Candlestick patterns detector
