@@ -466,7 +466,6 @@
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [otapi/Calibre_Moly_hu](https://github.com/otapi/Calibre_Moly_hu) - This Calibre plugin has been created to download metadata and cover image from Moly.hu.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [mrkipling/maraschino](https://github.com/mrkipling/maraschino) - A front-end for HTPCs
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [mvanholsteijn/docker-makefile](https://github.com/mvanholsteijn/docker-makefile) - Makefile for building docker repository releases
