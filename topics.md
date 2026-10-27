@@ -415,7 +415,6 @@
 
 ## cli 
 
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - Render PlantUML diagrams in GitHub Markdown READMEs and docs: clickable diagram images from .puml files that link to each other, with no images to commit. CLI and GitHub Action.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
@@ -789,6 +788,7 @@
 
 ## good-first-issue 
 
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [robbell/plantuml-c4](https://github.com/robbell/plantuml-c4) - A simple and flexible PlantUML template for creating C4 diagrams
 
 ## google 
