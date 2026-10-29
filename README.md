@@ -463,7 +463,7 @@
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [0xf2/aws-system-administration](https://github.com/0xf2/aws-system-administration) - Resources for readers of the O'REILLY book by the same title.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [meta/prophet](https://github.com/meta/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [otapi/Calibre_Moly_hu](https://github.com/otapi/Calibre_Moly_hu) - This Calibre plugin has been created to download metadata and cover image from Moly.hu.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [mrkipling/maraschino](https://github.com/mrkipling/maraschino) - A front-end for HTPCs
