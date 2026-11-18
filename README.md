@@ -262,7 +262,6 @@
 - [danielyaa5/puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) - Render PlantUML diagrams in GitHub Markdown READMEs and docs: clickable diagram images from .puml files that link to each other, with no images to commit. CLI and GitHub Action.
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -309,6 +308,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [mattjhayes/PlantUML-Examples](https://github.com/mattjhayes/PlantUML-Examples) - Examples of PlantUML code to generate 'Diagrams as Code'
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [bregman-arie/infraverse](https://github.com/bregman-arie/infraverse) - Infrastructure Platforms and Applications Comparison
 - [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) - A curated collection of publicly available resources on how companies around the world practice DevOps
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
