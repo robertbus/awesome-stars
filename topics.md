@@ -1208,7 +1208,7 @@
 - [joelparkerhenderson/statement-of-work](https://github.com/joelparkerhenderson/statement-of-work) - Statement Of Work (SOW) example
 - [joelparkerhenderson/git-commit-template](https://github.com/joelparkerhenderson/git-commit-template) - Git commit template for better commit messages
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
-- [queue-theory/queue-theory](https://github.com/queue-theory/queue-theory) - Queueing theory: an introduction for software development
+- [queue-theory/queue-theory](https://github.com/queue-theory/queue-theory) - Queue theory: an introduction for software development
 - [joelparkerhenderson/objectives-and-key-results](https://github.com/joelparkerhenderson/objectives-and-key-results) - Objectives and Key Results (OKR) examples for goals, tasks, plans, projects, and strategy.
 - [ways-of-working/ways-of-working](https://github.com/ways-of-working/ways-of-working) - Ways of Working (WOW) has 100+ tips for teamwork, including principles, values, tenets, ground rules, aspirations, norms, agreements, expectations, understandings, and more.
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
